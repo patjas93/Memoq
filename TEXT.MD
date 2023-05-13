@@ -4,8 +4,6 @@ With the CX series of Embedded PCs, Beckhoff combines PC technology with the mod
 
 Due to the possibility to directly connect I/O systems, costs for additional couplers are eliminated, there is less wiring work to be done and a compact and a space-saving execution of the controller in the control cabinet is made possible. Control cabinets and terminal boxes can thus be made smaller and even more cost-effective.
 
-Bus Terminals (IP20), EtherCAT Terminals (IP20) and EtherCAT Box modules (IP67) are suitable for the direct connection of the I/O systems.
-
 # Sturdy design
 
 The Embedded PCs are mechanically very sturdy and can be used in harsh environments due to their high resistance to vibrations and shocks. An extended temperature range of -25...+60 °C (storage temperature -40...+85 °C) is offered as standard. Use in warm locations or in particularly cool zones is thus also possible. Due to this sturdy and compact design, many application areas and application cases in industry are conceivable.
